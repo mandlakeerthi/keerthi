@@ -7,7 +7,7 @@ pipeline {
   stage('Checkout')
   {
    steps { 
-    git branch: 'master', url: 'https://github.com/scmlearningcentre/seminar.git'
+    git branch: 'master', url: 'https://github.com/mandlakeerthi/keerthi.git'
    }
   }
 
